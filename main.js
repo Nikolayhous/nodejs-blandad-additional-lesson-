@@ -21,3 +21,4 @@
  const {calculator}= require('./calculatorOOPStatic')
 
 //  console.log(calculator)
+
